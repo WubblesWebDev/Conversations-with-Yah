@@ -14,7 +14,6 @@
 		<div class="body-bg">
             <?php include "includes/header.html.php" ?>
             <div class="container posts">
-                 <?php include "includes/postingclass.php"?>
                     <div class="box">
                         <form action="CyWPosts.php" method="get" class="new-post">
                             <i>Enter the title you would like to name your post:</i>
@@ -28,7 +27,7 @@
                     </div>
                 <section class="post">
                     <div class="box">                            
-                        <h3>This is a post</h3>
+                        <h3>This is not yet a post</h3>
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam earum voluptas molestiae repellat ullam sint necessitatibus, omnis dolor fugit sapiente! Commodi expedita aliquam voluptas iste aperiam accusantium nostrum veniam consequuntur?</p>
                     </div>
                 </section>
