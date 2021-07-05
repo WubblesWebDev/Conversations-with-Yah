@@ -15,7 +15,7 @@
     $results = mysqli_query($conn, $sql);
     $resultsCheck = mysqli_num_rows($results);
     
-    if ($resultsCheck > 0){
+    if ($resultsCheck > 1){
       while ($row = mysqli_fetch_assoc($results)){
         echo $row['post-title'];
         echo '<hr>';
