@@ -46,7 +46,7 @@ body{
 	text-align:center;
 }
 #website-head span{
-	color: red;
+	color: var(--indicator);
 	text-shadow: 1px 2px black;
 }
 #website-head p{
