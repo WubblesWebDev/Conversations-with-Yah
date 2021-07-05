@@ -85,7 +85,7 @@
 						</div>
 					</section>
 				</div> <!-- end of container -->
-			<?php include "includes/footer.html"?> <!-- @%@%@%@%@%@@%@%@% ERROR @%@%%@%@%@%@%@%@%@ not going transparent-->
+			<?php include "includes/footer.html"?> 
 		</div> <!-- end of body-background -->
 	</body>
 </html>

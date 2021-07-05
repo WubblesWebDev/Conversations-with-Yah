@@ -850,7 +850,7 @@
                         <?php include "includes/backtotop.html"?>
                     </section>       
                 </div> <!-- end of container -->
-            <?php include "includes/footer.html"?>
+            <?php include "includes/footer.html"?> <!-- @%@%@%@%@%@@%@%@% ERROR @%@%%@%@%@%@%@%@%@ not going transparent-->
         </div> <!-- end of body-background -->
     </body>
 </html>
