@@ -848,7 +848,7 @@
                             <br>You can walk with Me wherever you go; even in the crowds. </b></p>
                         </div>
                         <?php include "includes/backtotop.html"?>
-                    </section>       
+                    </section> 
                 </div> <!-- end of container -->
             <?php include "includes/footer.html"?> <!-- @%@%@%@%@%@@%@%@% ERROR @%@%%@%@%@%@%@%@%@ not going transparent-->
         </div> <!-- end of body-background -->

@@ -15,13 +15,13 @@
             <?php include "includes/header.html.php" ?>
             <div class="container posts">
                     <div class="box">
-                        <form action="CyWPosts.php" method="get" class="new-post">
-                            <i>Enter the title you would like to name your post:</i>
-                              <input type="text" name="title" id="post-title">
-                            <i>Please enter your username:</i>
-                              <input type="text" name="userId" id="author">
-                            <i>Write your post:</i> <br>
-                              <input type="textbox" name="postBody" id="newPost">
+                        <form action="CyWPosts.php" method="post" class="new-post">
+                            <h3>Create New Post</h3>
+                              <input type="text" name="title" size="40" value="Title">
+                              <br>
+                              <br> 
+                              <textarea name="post" id="" cols="100" rows="20">Write your post here</textarea>
+                              <br>
                           <input type="submit" value="Post">
                         </form>
                     </div>
